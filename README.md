@@ -4,6 +4,10 @@ This project is a PCB re-layout based on the [insideGadgets GBxCart RW](https://
 
 GBxCart RW can be used to read Game Boy, Game Boy Color, and Game Boy Advance cartridges, as well as to back up and restore cartridge save data. For software, firmware, usage instructions, and compatibility information, please visit the [official GBxCart RW website](https://www.gbxcart.com/) and the [official product page](https://shop.insidegadgets.com/product/gbxcart-rw/).
 
+<p align="center">
+  <img src="extras/GBxCart-v1.3-W.jpg" alt="GBxCart RW v1.3 assembled board" width="720">
+</p>
+
 ## Features of This Version
 
 - Re-designed PCB layout based on the GBxCart RW v1.3 hardware
